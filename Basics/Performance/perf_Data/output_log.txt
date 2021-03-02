@@ -1,0 +1,38 @@
+Mono path[0] = 'E:/Dev/Games/Catlike/Basics/Performance/perf_Data/Managed'
+Mono path[1] = 'E:/Dev/Games/Catlike/Basics/Performance/perf_Data/Mono'
+Mono config path = 'E:/Dev/Games/Catlike/Basics/Performance/perf_Data/Mono/etc'
+PlayerConnection initialized from E:/Dev/Games/Catlike/Basics/Performance/perf_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55210
+Multi-casting "[IP] 192.168.0.119 [Port] 55210 [Flags] 3 [Guid] 1677376222 [EditorId] 1032607642 [Version] 1048832 [Id] WindowsPlayer(Mason-Desktop) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.119:55210]...
+PlayerConnection accepted from [192.168.0.119] handle:0x3a0
+PlayerConnection already initialized - listening to [192.168.0.119:55210]
+Initialize engine version: 5.4.5p5 (8c4c93a90556)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.136 seconds
+Platform assembly: E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Dev\Games\Catlike\Basics\Performance\perf_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 144Hz; virtual: 4480x1440 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 0.633200 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 303c -> priority: 1 
+  Thread -> id: 984 -> priority: 1 
+Waiting for finish
